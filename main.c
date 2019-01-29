@@ -107,9 +107,3 @@ void modifyFile(char filename[50], char lineToRemove[250], char lineToAdd[250]) 
     fclose(fptr); //close file
 
 }
-
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
